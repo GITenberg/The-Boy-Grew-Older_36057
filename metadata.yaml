@@ -1,0 +1,30 @@
+_repo: The-Boy-Grew-Older_36057
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Broun, Heywood
+    alias: Broun, Heywood Campbell
+    birthdate: 1888
+    deathdate: 1939
+    gutenberg_agent_id: '5623'
+    url: http://www.gutenberg.org/2009/agents/5623
+    wikipedia: http://en.wikipedia.org/wiki/Heywood_Broun
+description: ''
+gutenberg_issued: '2011-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36057'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sportswriters -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Runaway wives -- Fiction'
+- !lcsh 'Fathers and sons -- Fiction'
+title: The Boy Grew Older
+url: http://www.gutenberg.org/ebooks/36057
